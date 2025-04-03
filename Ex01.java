@@ -4,5 +4,8 @@ class Ex01{
 
         //Comentario em linha usado para comentarios curtos de uma linha
 
+
+        /**/
+
     }
 }
